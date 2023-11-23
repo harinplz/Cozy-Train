@@ -8,6 +8,16 @@
 
 <br/>
 
+## 팀원 소개
+
+|   **Name**   |               이동주👑                 |                강다은                |                  김지홍                   |               이하린                |                 정효인                  |               황주원                |
+| :----------: | :-----------------------------------: | :----------------------------------: | :---------------------------------------: | :---------------------------------: | :-------------------------------------: | :---------------------------------: |
+| **Profile**  |  <img src="https://avatars.githubusercontent.com/u/82428892?v=4" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/69593799?v=4" width="100" height="100"/>  |    <img src="https://avatars.githubusercontent.com/u/48514956?v=4" width="100" height="100"/>     | <img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100" height="100"/>  |   <img src="https://avatars.githubusercontent.com/u/52451420?v=4" width="100" height="100"/>    | <img src="https://avatars.githubusercontent.com/u/87613419?v=4" width="100" height="100"/>  |
+| **Position** |          FrontEnd <br> BackEnd           |          FrontEnd <br> Mobile           |           BackEnd <br> Mobile        |        FrontEnd <br> Mobile         |            BackEnd <br> Infra           |         Backend <br> FrontEnd         |
+|   **Git**    | [GitHub](https://github.com/emoving) | [GitHub](https://github.com/da010228) | [GitHub](https://github.com/kjh95044) | [GitHub](https://github.com/harinplz) | [GitHub](https://github.com/HyoinJeong) | [GitHub](https://github.com/woneee99) |
+
+<br/>
+
 ## 주요 기능
 ### 기차 여행 컨셉
 - 기차 내부의 메인 화면을 통해 현재 도시를 알 수 있다.
