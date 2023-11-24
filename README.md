@@ -49,6 +49,11 @@
 
   <br/>
 
+## ERD
+![ERD](./assets/ERD.png)
+
+<br/>
+
 ## 아키텍쳐
 ![](system.png)
 
